@@ -359,7 +359,7 @@
 							</seg>
 							<seg>
 								<lb xml:id="lb_line_43" facs="#line_43"/>
-								<mentioned xml:id="ref_22_ment" xml:lang="gr">ῥήτορον</mentioned>
+								<mentioned xml:id="ref_22_ment" xml:lang="gr">ῥήτορον</mentioned>?
 							</seg>
 							<seg>
 								<lb xml:id="lb_line_44" facs="#line_44"/>
@@ -379,11 +379,11 @@
 							</seg>
 							<seg>
 								<lb xml:id="lb_line_48" facs="#line_48"/>
-								Je rappelle : <term xml:id="Rlt"><hi rend="underlined" hand="#FDS">Réalité</hi></term> = <gloss>fait présent à la</gloss>
+								Je rappelle : <term xml:id="Rlt"><hi rend="underlined" hand="#FDS">Réalité</hi></term> = <gloss target="#Rlt">fait présent à la</gloss>
 							</seg>
 							<seg> 
 								<lb xml:id="lb_line_49" facs="#line_49"/>
-								<gloss>conscience des sujets parlants.</gloss>
+								<gloss target="#Rlt">conscience des sujets parlants.</gloss>
 							</seg>
 							<seg> 
 								<lb xml:id="lb_line_50" facs="#line_50"/>
@@ -465,7 +465,7 @@
 							</seg>
 							<seg>
 								<lb/>
-								non più di quanto la com-porterebbero la 
+								non più di quanto la comporterebbero la 
 							</seg>
 							<seg>
 								<lb/>
@@ -526,7 +526,7 @@
 							</seg>
 							<seg>
 								<lb/>
-								che è alla basedi tutte le <ref target="#ref_5_term" type="term">grammatiche</ref> 
+								che è alla base di tutte le <ref target="#ref_5_term" type="term">grammatiche</ref> 
 							</seg>
 							<seg>
 								<lb/>
@@ -542,7 +542,7 @@
 							</seg>
 							<seg>
 								<lb/>
-								stati debitamente avvertiti e misi in condizione, spero, di 
+								stati debitamente avvertiti e messi in condizione, spero, di 
 							</seg>
 							<seg>
 								<lb/>
@@ -582,7 +582,7 @@
 							</seg>
 							<seg>
 								<lb/>
-								<ref target="#ref_22_ment" type="mentioned">ῥήτορον</ref>. 
+								<ref target="#ref_22_ment" type="mentioned">ῥήτορον</ref>? 
 							</seg>
 							<seg>
 								<lb/>
